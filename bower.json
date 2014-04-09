@@ -1,0 +1,19 @@
+{
+  "name": "angular.lazy.load.js",
+  "description": "Angular image lazy loading",
+  "version": "0.1.1",
+  "author": "0xAX",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/angularify/angular.lazyload.js.git"
+  },
+  "main": [
+    "dist/angular-lazy-load.js"
+  ],
+  "ignore": [
+    "demo"
+  ],
+  "dependencies": {
+    "angular": "~1.2.10"
+  }
+}
